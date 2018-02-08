@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F1B66BF0-D278-1DC8-E7C0-3D6BA8328D63}") = "DiveUnityDemoandroid", "Assembly-CSharp-firstpass.csproj", "{7034F3CE-8037-340F-F1ED-0C10A9768A4F}"
+EndProject
+Project("{F1B66BF0-D278-1DC8-E7C0-3D6BA8328D63}") = "DiveUnityDemoandroid", "Assembly-CSharp.csproj", "{5EC4FB1E-7DF7-25F9-61E0-BAF81F650BAD}"
+EndProject
+Project("{F1B66BF0-D278-1DC8-E7C0-3D6BA8328D63}") = "DiveUnityDemoandroid", "Assembly-UnityScript.unityproj", "{0825F265-3FDB-5A44-A12B-8FB9F447E54B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7034F3CE-8037-340F-F1ED-0C10A9768A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7034F3CE-8037-340F-F1ED-0C10A9768A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7034F3CE-8037-340F-F1ED-0C10A9768A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7034F3CE-8037-340F-F1ED-0C10A9768A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC4FB1E-7DF7-25F9-61E0-BAF81F650BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC4FB1E-7DF7-25F9-61E0-BAF81F650BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC4FB1E-7DF7-25F9-61E0-BAF81F650BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC4FB1E-7DF7-25F9-61E0-BAF81F650BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0825F265-3FDB-5A44-A12B-8FB9F447E54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0825F265-3FDB-5A44-A12B-8FB9F447E54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0825F265-3FDB-5A44-A12B-8FB9F447E54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0825F265-3FDB-5A44-A12B-8FB9F447E54B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																									GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
